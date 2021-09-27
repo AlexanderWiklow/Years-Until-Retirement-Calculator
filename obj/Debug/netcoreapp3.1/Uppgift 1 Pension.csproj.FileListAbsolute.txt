@@ -1,0 +1,13 @@
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\bin\Debug\netcoreapp3.1\Uppgift 1 Pension.exe
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\bin\Debug\netcoreapp3.1\Uppgift 1 Pension.deps.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\bin\Debug\netcoreapp3.1\Uppgift 1 Pension.runtimeconfig.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\bin\Debug\netcoreapp3.1\Uppgift 1 Pension.runtimeconfig.dev.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\bin\Debug\netcoreapp3.1\Uppgift 1 Pension.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\bin\Debug\netcoreapp3.1\Uppgift 1 Pension.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\obj\Debug\netcoreapp3.1\Uppgift 1 Pension.AssemblyInfoInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\obj\Debug\netcoreapp3.1\Uppgift 1 Pension.AssemblyInfo.cs
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\obj\Debug\netcoreapp3.1\Uppgift 1 Pension.csproj.CoreCompileInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\obj\Debug\netcoreapp3.1\Uppgift 1 Pension.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\obj\Debug\netcoreapp3.1\Uppgift 1 Pension.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\obj\Debug\netcoreapp3.1\Uppgift 1 Pension.genruntimeconfig.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppgift 1 Pension\obj\Debug\netcoreapp3.1\Uppgift 1 Pension.csprojAssemblyReference.cache
